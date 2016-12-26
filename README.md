@@ -1,5 +1,5 @@
 # Translating-unlabeled-text-into-multi-relational-space
-## A work in progress for translating unlabeld text into a multi relational vectore embedded space using Word2Vec and TransE models
+## A work in progress for translating unlabeld text into a multi relational vector embedded space using Word2Vec and TransE models
 
 ### Missing from the repository: 
 #### - text8 file, could be downloaded here: http://mattmahoney.net/dc/text8.zip
